@@ -1,0 +1,5 @@
+1 Bread 120 1
+2 Chicken 500 2
+3 Eggs 180 1
+4 coke 70 3
+100 milk 150 10
